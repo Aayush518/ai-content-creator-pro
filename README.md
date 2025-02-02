@@ -112,4 +112,4 @@ A powerful, modern AI-powered content creation platform built with React, TypeSc
 - [Lucide Icons](https://lucide.dev/) for beautiful icons
 
 
-Made with ❤️ by Aayush518# ai-content-creator-pro
+Made with ❤️ by Aayush518 #ai-content-creator-pro
